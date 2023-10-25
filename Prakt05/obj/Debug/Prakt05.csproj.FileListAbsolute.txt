@@ -1,0 +1,15 @@
+C:\Users\Andrey\Desktop\Алексей\Prakt05\Prakt05\bin\Debug\Prakt05.exe.config
+C:\Users\Andrey\Desktop\Алексей\Prakt05\Prakt05\bin\Debug\Prakt05.exe
+C:\Users\Andrey\Desktop\Алексей\Prakt05\Prakt05\bin\Debug\Prakt05.pdb
+C:\Users\Andrey\Desktop\Алексей\Prakt05\Prakt05\obj\Debug\Prakt05.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\Алексей\Prakt05\Prakt05\obj\Debug\Prakt05.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrey\Desktop\Алексей\Prakt05\Prakt05\obj\Debug\Prakt05.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\Алексей\Prakt05\Prakt05\obj\Debug\Prakt05.exe
+C:\Users\Andrey\Desktop\Алексей\Prakt05\Prakt05\obj\Debug\Prakt05.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Prakt05\Prakt05\bin\Debug\Prakt05.exe.config
+C:\Users\arina\OneDrive\Рабочий стол\Prakt05\Prakt05\bin\Debug\Prakt05.exe
+C:\Users\arina\OneDrive\Рабочий стол\Prakt05\Prakt05\bin\Debug\Prakt05.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Prakt05\Prakt05\obj\Debug\Prakt05.csproj.AssemblyReference.cache
+C:\Users\arina\OneDrive\Рабочий стол\Prakt05\Prakt05\obj\Debug\Prakt05.csproj.CoreCompileInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\Prakt05\Prakt05\obj\Debug\Prakt05.exe
+C:\Users\arina\OneDrive\Рабочий стол\Prakt05\Prakt05\obj\Debug\Prakt05.pdb
